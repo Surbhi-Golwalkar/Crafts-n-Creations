@@ -154,6 +154,19 @@ ul li:hover{
       left:63px;
     }
    }
+   .gif-9{
+    position: absolute;
+    top: -50px;
+    left: 199px;
+    
+   }
+   @media(max-width:600px){
+    .gif-9{
+      position: absolute;
+      top: 28px;
+      left:63px;
+    }
+   }
   .art-m{
     height: 200px;
     width: 200px;
@@ -295,7 +308,8 @@ ul li:hover{
 }
 .footer {
     background: #2e5682;
-    padding: 50px;
+    padding: 19px;
+    padding-bottom: 4px;
     color: #fff;
 }
 .fade {
@@ -349,11 +363,46 @@ ul li:hover{
                 background: #0a0533e0;
                 padding: 50px;
                 color: #fff;
-                width: 105%;
-                margin-left: -33px;
+                width: 108%;
+                margin-left: -51px;
               }
               @media(max-width: 600px){
                 .m-f-1{
+                background: #0a0533e0;
+                padding: 50px;
+                color: #fff;
+                width: 117%;
+                margin-left: -33px;
+              }
+              }
+
+.m-f-1-1{
+               background: #0a0533e0;
+               padding: 50px;
+               color: #fff;
+               width: 114%;
+              margin-left: -86px;
+              }
+              @media(max-width: 600px){
+                .m-f-1-1{
+                background: #0a0533e0;
+    padding: 81px;
+    color: #fff;
+    width: 137%;
+    margin-left: -86px;
+              }
+              }
+.m-f-3{
+                 background: #0a0533e0;
+                 padding: 19px;
+    padding-bottom: 4px;
+                 color: #fff;
+                 width: 106%;
+                 margin-left: -44px;
+
+              }
+              @media(max-width: 600px){
+                .m-f-3{
                 background: #0a0533e0;
                 padding: 50px;
                 color: #fff;
@@ -411,6 +460,17 @@ ul li:hover{
     background-size: cover;
     border:4px black dashed;
 }
+.img-contacts-n{
+  background: url(https://media.istockphoto.com/photos/embroidered-fragment-on-flax-by-yellow-and-white-cotton-threads-picture-id615745864?k=6&m=615745864&s=612x612&w=0&h=uqScgPNzC79Zv3JaEWCsfDpRPHQguiSuFxmayaBLUK0=);
+   width: 100%;
+    height: 500px;
+    padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover;
+    border:4px black dashed;
+}
 .margin{
   margin-top: 50px;
 }
@@ -431,6 +491,130 @@ ul li:hover{
 }
 
 }
+.art-footer{
+   background: #2e5682!important;
+   padding: 5px;
+    padding-bottom: 3px;
+    width: 120%;
+    margin-left: -157px;
+    color: #fff;
+}
+@media(max-width: 600px){
+  .art-footer{
+   background: #2e5682!important;
+   padding: 5px;
+    padding-bottom: 3px;
+    width: 120%;
+    margin-left: -33px;
+    color: #fff;
+}
 
+}
+.modal-bg{
+  height: 430px;
+  width: 471px;
+  background-color: #d3e4ef;
+}
+@media(max-width: 600px){
+  .modal-bg{
+  height: 490px;
+  width: 313px;
+  background-color: #d3e4ef;
+}
+}
+.email-input{
+  margin: 5px;
+    border: 2px solid #914d56;
+    border-radius: 8px;
+}
+.modal-title{
+  font-family: 'Train One', cursive;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    padding-left: 173px;
+    font-size: x-large
+}
+@media(max-width: 600px)
+{
+  .modal-title{
+  font-family: 'Train One', cursive;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    padding-left: 86px;
+    font-size: x-large
+}
 
+}
+.btn-submit-login{
+  margin: 9px;
+    width: 130px;
+    height: 30px;
+    border: 3px solid #945961;
+    border-radius: 9px;
+    background: #f1eecebd;
+    font-family: 'New Tegomin', serif;
+  }
+ .new-here{
+  font-size: 23px;
+    color: #914d56;
+    font-weight: bold;
+     font-family: 'New Tegomin', serif;
+
+ }
+ .note-reg{
+  font-size: 15px;
+    color: #4c4143;
+    font-weight: 500;
+    font-family: 'New Tegomin', serif;
+ }
+ .create-acc{
+  font-size: 19px;
+    color: #914d56;
+    font-weight: bold;
+     font-family: 'New Tegomin', serif;
+ }
+.btn-login-nav{
+  width: 135px;
+    height: 34px;
+    color: white;
+    border: 1px solid!important;
+    border-radius: 9px!important;
+    background-color: #2e5682!important;
+    /* font-family: 'Train One', cursive; */
+    margin-top: -3px;
+    font-family: 'New Tegomin', serif;
+}
+     .learn-with-wool{
+    font-size: 22px;
+    margin-top: -19px;
+    color:white;
+    font-weight: bold;
+    font-family: 'New Tegomin', serif;
+  }
+  @media(max-width: 600px){
+    .learn-with-wool{
+      font-size: 14px;
+      margin-top: 13px;
+      color: white;
+      font-weight: bold;
+      font-family: 'New Tegomin', serif;
+    }
+  }
+  .gif-crochet{
+              position: absolute;
+              top: 112px;
+              left: 208px;
+               }
+             @media(max-width: 600px){
+              .gif-crochet{
+                   height: 222px;
+    width: 181px;
+    position: absolute;
+    top: 117px;
+    left: 105px;
+                
+              }
+            }
    
